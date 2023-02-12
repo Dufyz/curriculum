@@ -15,7 +15,7 @@ Apaixonado pela melhor experiência do cliente, sempre trabalhando focado em ent
 
 # Experiência
 
-- Ainda não possuo experiência profisional como desenvolvedor. 
+- Ainda não possuo experiência profissional como desenvolvedor. 
 
 # Meus Projetos
 
